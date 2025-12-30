@@ -937,7 +937,7 @@ body.dark-mode .contact-section {
             rgba(27, 39, 35, 0.92),
             rgba(27, 39, 35, 0.92)
         ),
-        url("okay.jpg");
+        url("me.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -969,3 +969,4 @@ body.dark-mode .social-icons a {
 body.dark-mode .social-icons a:hover {
     color: #d9d7a8;
 }
+
